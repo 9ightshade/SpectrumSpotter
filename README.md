@@ -3,6 +3,11 @@
 ## Overview
 The **Spectrum Spotter** is a simple and engaging game where players guess the correct color from a set of options. The game provides visual feedback and keeps track of the player's score.
 
+## Screenshot
+
+![Spectrum Spotter Screenshot](./public/Screenshot.png)
+
+
 ## Features
 - Randomly generated target color
 - Multiple color options to choose from
